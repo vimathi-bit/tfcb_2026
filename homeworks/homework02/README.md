@@ -86,6 +86,9 @@ tfcb_2023/homeworks/homework02/list.txt
 
 You can make the contents of those files whatever you want (hint: slide 9... )
 
-_Paste your SCRIPT here (not the output)_
+`mkdir homework02/question02`
+
+
+`for num in $(cat tfcb_2023/homeworks/homework02/list.txt); do echo "This is file $num" > homework02/question02/file$num.txt; done`
 
 
