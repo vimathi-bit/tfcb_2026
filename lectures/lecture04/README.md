@@ -7,7 +7,7 @@ This lesson introduces you to the command line (a.k.a. Unix shell), which is use
 In the first lecture, I will describe the history of and larger context for why we want to use the command line.
 [Last year's slides are here](https://github.com/FredHutch/tfcb_2025/blob/main/lectures/lecture04/slides/2025oct07_MCB536_Lecture04.pdf), this year's slides will be here and if you missed the lecture [here is a similar recorded version from 2022](https://youtu.be/vUzns3Wk-_U). 
 
-If you want a second opnion or want to learn clutser-based computing and paralleization, [here is a recorded version](https://www.youtube.com/watch?v=dzkacZ2BTjw) and [here are the slides](https://fredhutch.github.io/tfcb_2021/lectures/lecture03/slides/slides.html) covering related material by Erick Matsen in 2020.
+If you want a second opnion or want to learn clutser-based computing and parallelization, [here is a recorded version](https://www.youtube.com/watch?v=dzkacZ2BTjw) and [here are the slides](https://fredhutch.github.io/tfcb_2021/lectures/lecture03/slides/slides.html) covering related material by Erick Matsen in 2020.
 
 
 ## Learning objectives
@@ -31,7 +31,7 @@ After these two lectures, you should be able to:
 
 This material requires access to a [unix shell](https://fredhutch.github.io/tfcb_2021/software/#unix-command-line-shell). Different "flavors" of shell have slight variations in commands available so don't be surprised if some of the commands and options are slightly different (especially on OS X).
   
-- **Use a Command Line via Visual Studio Code (HIGHLY recommended)**
+- **Use a Command Line via Visual Studio Code (required for this course)**
   - [Install using these instructions](https://github.com/FredHutch/tfcb_2026/blob/main/software/README.md)
   - Adjust the view options in the upper right corner to toggle view and maximize the "Terminal" tab
   
@@ -44,7 +44,7 @@ This material requires access to a [unix shell](https://fredhutch.github.io/tfcb
 
 ## Reminders
 
-- Homework 2 (command line) will be available [here](https://github.com/FredHutch/tfcb_2026/tree/main/homeworks/homework02) on October 9th; it may be useful to reference these questions as you work through material in the second class.
+- Homework 2 (command line) will be available [here](https://github.com/FredHutch/tfcb_2026/tree/main/homeworks/homework02) on October 15th; it may be useful to reference these questions as you work through material in the second class.
 
 ## Further references
 
